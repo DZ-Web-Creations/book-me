@@ -1,7 +1,6 @@
 # book-me
 
-This README outlines the details of collaborating on this Glimmer application.
-A short introduction of this app could easily go here.
+This is a simple web component for adding a 'Book a Table' OpenTable button.
 
 ## Prerequisites
 
@@ -14,7 +13,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/DZ-Web-Creations/book-me.git` this repository
 * `cd book-me`
 * `yarn`
 
